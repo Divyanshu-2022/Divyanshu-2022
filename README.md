@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <h1>I am Divyanshu Tripathi</h1>
 <div id="badges">
   <a href="linkedin.com/in/divyanshu-tripathi-344789229">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
   <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
