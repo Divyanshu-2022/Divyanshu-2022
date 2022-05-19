@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-2022&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu-2022" /> </p>
 <h1>I am Divyanshu Tripathi</h1>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/divyanshu-tripathi-344789229">
+  <a href="linkedin.com/in/divyanshu-tripathi-344789229">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
