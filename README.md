@@ -62,7 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<p align="left"> <a href="https://github.com/DYZGAMING/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DYZGAMING&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="DYZGAMING" /></a> </p>
+<p align="left"> <a href="https://github.com/Divyanshu-2022/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DYZGAMING&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="DYZGAMING" /></a> </p>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000)](https://git.io/streak-stats)
