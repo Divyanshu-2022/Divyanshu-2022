@@ -59,12 +59,27 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<!-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
+- - 🔭 I’m currently working on [Infrmantra Website](https://inframantra-website.vercel.app)
+
+- 🌱 I’m currently learning **Next.js, Node.js, MongoDB, Express.js, AWS,**
+
+- 👯 I’m looking to collaborate on [MasterCabs](https://master-cabs.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [https://divyanshu-nine.vercel.app/](https://divyanshu-nine.vercel.app/)
+
+- 📝 I regularly write articles on [https://divyanshu-nine.vercel.app/](https://divyanshu-nine.vercel.app/)
+
+- 💬 Ask me about **React, HTML, Css, Js, Java, Next.js, Node.js, MonogoDB**
+
+- 📫 How to reach me **divyanshutripathi7826@gmail.com**
+
+- 📄 Know about my experiences [https://divyanshu-nine.vercel.app/](https://divyanshu-nine.vercel.app/)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/divyanshu-tripathi4)
 ### :hammer_and_wrench: Languages and Tools :
