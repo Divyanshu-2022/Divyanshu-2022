@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" **alt="Next" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Next" **alt="Next" width="40" height="40"/>
 </div>
-<p align="left"> <a href="https://github.com/Divyanshu-2022/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DYZGAMING&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="DYZGAMING" /></a> </p>
+<p align="left"> <a href="https://github.com/Divyanshu-2022/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Divyanshu-2022&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="Divyanshu-2022" /></a> </p>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -110,10 +110,5 @@ Here are some ideas to get you started:
 
 ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu-2022&show_icons=true&locale=en&layout=compact" alt="divyanshu-2022" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&locale=en" alt="divyanshu-2022" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-2022&" alt="divyanshu-2022" /></p>
 
 <!-- <p><a href="https://www.buymeacoffee.com/Divyanshu Tripathi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Divyanshu Tripathi" /></a><a href="https://ko-fi.com/Divyanshu Tripathi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Divyanshu Tripathi" /></a></p><br><br> -->
