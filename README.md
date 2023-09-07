@@ -63,10 +63,8 @@ Here are some ideas to get you started:
     I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 </div>
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<h3 align="center">- :seedling: Exploring Technical Content Writing.</h3>
+<h3 align="center">- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</h3>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
