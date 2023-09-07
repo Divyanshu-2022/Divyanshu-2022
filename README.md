@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-<p color="red"> - 🔭 I’m currently working on  [Infrmantra Website](https://inframantra-website.vercel.app) </p>
+- 🔭 I’m currently working on  [Infrmantra Website](https://inframantra-website.vercel.app) 
 
 - 🌱 I’m currently learning **Next.js, Node.js, MongoDB, Express.js, AWS,**
 
