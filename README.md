@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/divyanshu-tripathi4/" target="blank">
     <img 
      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
-     alt="https://www.linkedin.com/in/divyanshu-tripathi4/" height="30" width="40" />
+     alt="https://www.linkedin.com/in/divyanshu-tripathi4/" />
   </a>
 <!--   <a href="www.linkedin.com/in/divyanshu-tripathi4">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
