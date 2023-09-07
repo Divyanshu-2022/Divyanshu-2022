@@ -106,9 +106,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=divyanshu-2022)](https://github.com/divyanshu-2022/github-readme-stats)
 
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko)
+<p align="right">
+  ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko)
+</p>
+
+<-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=divyanshu-2022)](https://github.com/divyanshu-2022/github-readme-stats)  -->
 
 
 <!-- <p><a href="https://www.buymeacoffee.com/Divyanshu Tripathi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Divyanshu Tripathi" /></a><a href="https://ko-fi.com/Divyanshu Tripathi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Divyanshu Tripathi" /></a></p><br><br> -->
