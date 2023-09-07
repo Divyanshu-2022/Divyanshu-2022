@@ -106,10 +106,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko)
 
-<p align="right">
-  ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko)
-</p>
 
 <-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=divyanshu-2022)](https://github.com/divyanshu-2022/github-readme-stats)  -->
 
