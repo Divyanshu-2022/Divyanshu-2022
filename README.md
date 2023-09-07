@@ -46,6 +46,11 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" 
     alt="https://www.instagram.com/dev._divyanshu/"  />
   </a>
+   <a href="https://www.hackerrank.com/divyanshutripat4" target="_blank">
+     <img 
+    src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" 
+     alt="https://www.hackerrank.com/divyanshutripat4" />
+   </a>
 </div>
 <h1>
   hey there
