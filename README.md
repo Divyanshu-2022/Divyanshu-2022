@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu-2022" alt="divyanshu-2022" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/divyans88357769" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/divyans88357769?logo=twitter&style=for-the-badge" alt="https://twitter.com/divyans88357769" /></a> </p>
+<p align="left"> <a href="https://twitter.com/divyans88357769" target="blank"><img src="https://img.shields.io/twitter/follow/divyans88357769?logo=twitter&style=for-the-badge" alt="https://twitter.com/divyans88357769" /></a> </p>
 
 - 🔭 I’m currently working on [Infrmantra Website](https://inframantra-website.vercel.app)
 
