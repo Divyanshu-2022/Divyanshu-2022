@@ -93,6 +93,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/next-original-wordmark.svg" title="Git" **alt="Next" width="40" height="40"/>
 </div>
 <p align="left"> <a href="https://github.com/Divyanshu-2022/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DYZGAMING&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="DYZGAMING" /></a> </p>
 
