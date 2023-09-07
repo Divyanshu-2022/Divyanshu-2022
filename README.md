@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-2022&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu-2022" /> </p>
 <!-- <h1>I am Divyanshu Tripathi</h1> -->
-<h3 align="left" color="red">Connect with me:</h3>
+<h3 align="center" style="color:red;">Connect with me:</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/divyanshu-tripathi4/" target="_blank">
     <img 
