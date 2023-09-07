@@ -108,6 +108,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark" alt="divyanshu-2022" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko" alt="divyanshu-2022" /></p>
+<p><img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko" alt="divyanshu-2022" /></p>
 
 
