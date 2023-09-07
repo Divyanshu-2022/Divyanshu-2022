@@ -29,11 +29,11 @@ Here are some ideas to get you started:
      alt="https://www.linkedin.com/in/divyanshu-tripathi4/" />
   </a>
   <a href="https://youtube.com/@Divyanshu7826?si=LhHimbjcGBQ_YTP_" target="blank">
-    <img align="center" 
+    <img  
       src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" 
       alt="[https://www.youtube.com/channel/ucddmmtsow6otkuxjg84de9q](https://youtube.com/@Divyanshu7826?si=LhHimbjcGBQ_YTP_)"  />
   </a>
-  <a href="your-twitter-URL">
+  <a href="[your-twitter-URL](https://twitter.com/divyans88357769)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
