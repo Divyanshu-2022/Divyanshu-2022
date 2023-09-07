@@ -36,10 +36,16 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/divyans88357769" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.facebook.com/divyanshu.tripathi.37625/" target="blank">
+  <a href="https://www.facebook.com/divyanshu.tripathi.37625/" target="_blank">
     <img 
-  src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" 
-  alt="https://www.facebook.com/divyanshu.tripathi.37625/" height="30" width="40" /></a>
+    src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" 
+   alt="https://www.facebook.com/divyanshu.tripathi.37625/"  />
+  </a>
+  <a href="https://www.instagram.com/dev._divyanshu/" target="_blank">
+    <img  
+    src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=twitter&logoColor=white" 
+    alt="https://www.instagram.com/dev._divyanshu/"  />
+  </a>
 </div>
 <h1>
   hey there
