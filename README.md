@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-2022&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu-2022" /> </p>
-<h1>I am Divyanshu Tripathi</h1>
+<!-- <h1>I am Divyanshu Tripathi</h1> -->
 <div id="badges">
   <a href="www.linkedin.com/in/divyanshu-tripathi4">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
