@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on [MasterCabs](https://master-cabs.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://divyanshu-nine.vercel.app/](https://divyanshu-nine.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Project Folio](https://divyanshu-nine.vercel.app/)
 
-- 📝 I regularly write articles on [https://divyanshu-nine.vercel.app/](https://divyanshu-nine.vercel.app/)
+- 📝 I regularly write articles on [No BLogs Right Now](https://divyanshu-nine.vercel.app/)
 
 - 💬 Ask me about **React, HTML, Css, Js, Java, Next.js, Node.js, MonogoDB**
 
