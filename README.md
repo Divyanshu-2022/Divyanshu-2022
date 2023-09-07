@@ -8,12 +8,21 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on [Infrmantra Website](https://inframantra-website.vercel.app)
+
+- 🌱 I’m currently learning **Next.js, Node.js, MongoDB, Express.js, AWS,**
+
+- 👯 I’m looking to collaborate on [MasterCabs](https://master-cabs.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [https://divyanshu-nine.vercel.app/](https://divyanshu-nine.vercel.app/)
+
+- 📝 I regularly write articles on [https://divyanshu-nine.vercel.app/](https://divyanshu-nine.vercel.app/)
+
+- 💬 Ask me about **React, HTML, Css, Js, Java, Next.js, Node.js, MonogoDB**
+
+- 📫 How to reach me **divyanshutripathi7826@gmail.com**
+
+- 📄 Know about my experiences [https://divyanshu-nine.vercel.app/](https://divyanshu-nine.vercel.app/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
