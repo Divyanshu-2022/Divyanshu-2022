@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- <h1>I am Divyanshu Tripathi</h1> -->
 <div id="badges">
   <a href="https://www.linkedin.com/in/divyanshu-tripathi4/" target="blank">
-    <img align="center" 
+    <img 
      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
      alt="https://www.linkedin.com/in/divyanshu-tripathi4/" height="30" width="40" />
   </a>
