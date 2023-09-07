@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React, HTML, Css, Js, Java, Next.js, Node.js, MonogoDB**
 
-- 📫 How to reach me **divyanshutripathi7826@gmail.com**
+- 📫 How to reach me [Mail me](divyanshutripathi7826@gmail.com)
 
 - 📄 Know about my experiences [Portfolio](https://divyanshu-nine.vercel.app)
 - 😄 Pronouns: ...
