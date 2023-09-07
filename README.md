@@ -23,19 +23,23 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-2022&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu-2022" /> </p>
 <!-- <h1>I am Divyanshu Tripathi</h1> -->
 <div id="badges">
-  <a href="https://www.linkedin.com/in/divyanshu-tripathi4/" target="blank">
+  <a href="https://www.linkedin.com/in/divyanshu-tripathi4/" target="_blank">
     <img 
      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
      alt="https://www.linkedin.com/in/divyanshu-tripathi4/" />
   </a>
-  <a href="https://youtube.com/@Divyanshu7826?si=LhHimbjcGBQ_YTP_" target="blank">
+  <a href="https://youtube.com/@Divyanshu7826?si=LhHimbjcGBQ_YTP_" target="_blank">
     <img  
       src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" 
       alt="[https://www.youtube.com/channel/ucddmmtsow6otkuxjg84de9q](https://youtube.com/@Divyanshu7826?si=LhHimbjcGBQ_YTP_)"  />
   </a>
-  <a href="https://twitter.com/divyans88357769" target="blank">
+  <a href="https://twitter.com/divyans88357769" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.facebook.com/divyanshu.tripathi.37625/" target="blank">
+    <img 
+  src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" 
+  alt="https://www.facebook.com/divyanshu.tripathi.37625/" height="30" width="40" /></a>
 </div>
 <h1>
   hey there
