@@ -106,4 +106,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<h3 align="left" style="color:red">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Divyanshu Tripathi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Divyanshu Tripathi" /></a><a href="https://ko-fi.com/Divyanshu Tripathi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Divyanshu Tripathi" /></a></p><br><br>
