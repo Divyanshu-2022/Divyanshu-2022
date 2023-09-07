@@ -80,36 +80,34 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" 
-  alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" 
- height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" **alt="Next" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Next" **alt="Next" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/Next-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<p align="left"> <a href="https://github.com/Divyanshu-2022/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Divyanshu-2022&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="Divyanshu-2022" /></a> </p>
+<p align="left"> <a href="https://github.com/Divyanshu-2022/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DYZGAMING&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="DYZGAMING" /></a> </p>
+
+
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko)
+<!-- ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko) -->
+
+<p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000" alt="Divyanshu-2022" /></p>
+
+<p>&nbsp;<img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark" alt="divyanshu-2022" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko" alt="divyanshu-2022" /></p>
 
 
-<-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=divyanshu-2022)](https://github.com/divyanshu-2022/github-readme-stats)  -->
-
-
-<!-- <p><a href="https://www.buymeacoffee.com/Divyanshu Tripathi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Divyanshu Tripathi" /></a><a href="https://ko-fi.com/Divyanshu Tripathi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Divyanshu Tripathi" /></a></p><br><br> -->
