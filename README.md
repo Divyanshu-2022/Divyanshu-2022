@@ -110,5 +110,10 @@ Here are some ideas to get you started:
 
 ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu-2022&show_icons=true&locale=en&layout=compact" alt="divyanshu-2022" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&locale=en" alt="divyanshu-2022" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-2022&" alt="divyanshu-2022" /></p>
 
 <!-- <p><a href="https://www.buymeacoffee.com/Divyanshu Tripathi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Divyanshu Tripathi" /></a><a href="https://ko-fi.com/Divyanshu Tripathi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Divyanshu Tripathi" /></a></p><br><br> -->
