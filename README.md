@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **divyanshutripathi7826@gmail.com**
 
-- 📄 Know about my experiences [https://divyanshu-nine.vercel.app/](https://divyanshu-nine.vercel.app/)
+- 📄 Know about my experiences [https://divyanshu-nine.vercel.app/]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
