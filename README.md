@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Next.js, Node.js, MongoDB, Express.js, AWS,**
 
-- 👯 I’m looking to collaborate on [MasterCabs](https://master-cabs.vercel.app/)
+- 👯 I’m looking to collaborate on [New Projects](https://github.com/Divyanshu-2022)
 
 - 👨‍💻 All of my projects are available at [My Project Folio](https://divyanshu-nine.vercel.app/)
 
