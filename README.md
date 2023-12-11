@@ -23,14 +23,12 @@
 - 📄 Know about my experiences [Portfolio](https://divyanshu-nine.vercel.app)
 - ⚡ Fun fact: ...
 
-<div align="center">
-  <ul>
+<ul>
       <li>Languages: Java, JavaScript, Python</li>
       <li>Web Development: React, Node.js, Next.js</li>
       <li>Database: MongoDB, MySQL</li>
       <li>Other Tools: Git, Docker</li>
-    </ul> 
-</div>
+</ul> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
