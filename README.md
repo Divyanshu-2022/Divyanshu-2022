@@ -1,3 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      max-width: 800px;
+      text-align: left;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
+    h1,
+    h2,
+    h3 {
+      color: #6f42c1;
+    }
+
+    h2 {
+      border-bottom: 2px solid #6f42c1;
+      padding-bottom: 10px;
+      margin-top: 20px;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .contact {
+      margin-top: 20px;
+    }
+
+    .contact a {
+      display: inline-block;
+      margin-right: 15px;
+      color: #333;
+    }
+  </style>
+  <title>About Me</title>
+</head>
+
+<body>
+  <div class="container">
+    <h1>👋 Hello, I'm Divyanshu-2022!</h1>
+
+    <p>I'm a passionate and curious software developer with a love for creating innovative solutions. My journey in the world of coding began with a fascination for turning ideas into functional and efficient applications.</p>
+
+    <h2>🚀 Skills:</h2>
+    <ul>
+      <li>Languages: Java, JavaScript, Python</li>
+      <li>Web Development: React, Node.js, Next.js</li>
+      <li>Database: MongoDB, MySQL</li>
+      <li>Other Tools: Git, Docker</li>
+    </ul>
+
+    <h2>🌐 Projects:</h2>
+    <ul>
+      <li><a href="link-to-repository">Project Name 1</a>: A description of the project and your role in it.</li>
+      <li><a href="link-to-repository">Project Name 2</a>: Briefly explain the technologies used and the problem solved.</li>
+    </ul>
+
+    <h2>🌱 Currently Learning:</h2>
+    <p>I'm always eager to expand my knowledge. Currently, I'm diving deeper into [specific technology or skill] to enhance my expertise.</p>
+
+    <h2>💬 Let's Connect:</h2>
+    <div class="contact">
+      <a href="link-to-linkedin">LinkedIn</a>
+      <a href="link-to-twitter">Twitter</a>
+    </div>
+
+    <h2>🎯 Goals:</h2>
+    <p>I aspire to [mention a specific career goal or project] to contribute meaningfully to the tech community.</p>
+
+    <h2>🌈 Fun Facts:</h2>
+    <p>When not coding, you'll find me [mention a hobby or interest]. I believe in the power of open source and collaboration.</p>
+
+    <h2>📧 Contact:</h2>
+    <p>Feel free to reach out to me at [your-email@example.com] for collaboration or discussions.</p>
+
+    <p>Let's code something amazing together! 🚀</p>
+  </div>
+</body>
+
+</html>
+
 <h1 align="center">Hi 👋, I'm Divyanshu Tripathi</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
