@@ -78,7 +78,7 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 </div>
 <h3 align="center">- :seedling: Exploring Technical Content Writing.</h3>
-<h3 align="center">- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</h3>
+<h3 align="center">- :zap: In my free time, I solve problems on Leet Code & Geeks and read tech articles.</h3>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -107,7 +107,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko) -->
-
+ <br/>
 <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000" alt="Divyanshu-2022" /></p>
 
 <p>&nbsp;<img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark" alt="divyanshu-2022" /></p>
