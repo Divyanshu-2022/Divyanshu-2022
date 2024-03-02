@@ -66,7 +66,7 @@
 
 
 ### :fire: My Stats :
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; background-color: red; paddding: 20px;">
     <div style="flex: 1 1 300px; margin: 10px;">
         <a href="https://git.io/streak-stats" target="_blank">
             <img src="http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 100%;" />
