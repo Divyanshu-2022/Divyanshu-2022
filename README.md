@@ -85,8 +85,8 @@
 
 ### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Divyanshu-2022&repo=Divyanshu-2022&theme=synthwave)](https://github.com/Divyanshu-2022/Divyanshu-2022)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Divyanshu-2022&repo=AWS-Practices&theme=dracula)](https://github.com/Divyanshu-2022/AWS-Practices)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Divyanshu-2022&repo=Divyanshu-2022&theme=prussian)](https://github.com/Divyanshu-2022/Divyanshu-2022)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Divyanshu-2022&repo=AWS-Practices&theme=monokai)](https://github.com/Divyanshu-2022/AWS-Practices)
 
 
 
