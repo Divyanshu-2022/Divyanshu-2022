@@ -50,3 +50,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
 </div>
+
+
+### :fire: My Stats :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko)
+
+ <-- <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000" alt="Divyanshu-2022" /></p> -->
+
+<-- <p>&nbsp;<img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark" alt="divyanshu-2022" /></p> -->
+
+<--- <p><img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko" alt="divyanshu-2022" /></p> -->
+
