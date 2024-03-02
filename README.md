@@ -28,23 +28,24 @@
 
 ### About Me:
 
-🔭 Currently, I'm deeply immersed in crafting the [Infrmantra Website](https://inframantra-website.vercel.app), pouring my passion into every pixel and line of code.
+🔭 Crafting <a href="https://inframantra-website.vercel.app/">Infrmantra Website</a> with passion & precision.
 
-🌱 Always eager to expand my skill set, I'm currently delving into the realms of Next.js, Node.js, MongoDB, Express.js, and AWS, constantly seeking to broaden my horizons and push the boundaries of what's possible.
+🌱 Learning Next.js, Node.js, MongoDB, Express.js, & AWS.
 
-👯 I'm on the lookout for exciting opportunities to collaborate on fresh, innovative projects that challenge me to think outside the box and push the envelope of creativity.
+👯 Open to collaborating on fresh, innovative projects.
 
-👨‍💻 You'll find a comprehensive collection of my projects showcased in [My Project Folio](https://divyanshu-nine.vercel.app/), a testament to my dedication and expertise in the world of software development.
+👨‍💻 Explore my projects at My Project Folio.
 
-📝 While my fingers may not currently be typing away on blog posts, I'm always brewing up new ideas and insights, ready to share them with the world when the time is right.
+📝 Brewing up new ideas & insights for future sharing.
 
-💬 Feel free to reach out to me for anything related to React, HTML, CSS, JavaScript, Java, Next.js, Node.js, or MongoDB. I'm here to lend a helping hand and share my knowledge with fellow enthusiasts.
+💬 Reach out for help with React, HTML, CSS, JavaScript, Java, Next.js, Node.js, or MongoDB.
 
-📫 Want to connect? Drop me a line at divyanshutripathi7826@gmail.com, and let's start a conversation!
+📫 Connect with me at divyanshutripathi7826@gmail.com.
 
-📄 Curious about my journey and experiences? Dive into my [Portfolio](https://divyanshu-nine.vercel.app), where I've documented my adventures in the realm of software development.
+📄 Explore my journey and experiences in my Portfolio.
 
-⚡ Fun fact: ... *(You can add a quirky or interesting tidbit about yourself here to add some personality!)*
+⚡ Fun fact: ... *(Add a quirky or interesting tidbit about yourself!)*
+
 
 
 
