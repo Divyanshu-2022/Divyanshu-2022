@@ -53,17 +53,22 @@
 
 
 ### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000)](https://git.io/streak-stats)
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="flex: 1 1 300px; margin: 10px;">
+        <a href="https://git.io/streak-stats" target="_blank">
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 100%;" />
+        </a>
+    </div>
+    <div style="flex: 1 1 300px; margin: 10px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="max-width: 100%;" />
+        </a>
+    </div>
+    <div style="flex: 1 1 300px; margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko" alt="GitHub Stats" style="max-width: 100%;" />
+    </div>
+</div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko)
-
- <-- <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000" alt="Divyanshu-2022" /></p> -->
-
-<-- <p>&nbsp;<img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark" alt="divyanshu-2022" /></p> -->
-
-<--- <p><img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko" alt="divyanshu-2022" /></p> -->
 
