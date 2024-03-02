@@ -28,10 +28,23 @@
 
 ### About Me:
 
-- 🔭 I’m currently working on [Infrmantra Website](https://inframantra-website.vercel.app)
-- 🌱 I’m currently learning Next.js, Node.js, MongoDB, Express.js, AWS
+- 🔭 I’m currently working on  [Infrmantra Website](https://inframantra-website.vercel.app) 
+
+- 🌱 I’m currently learning **Next.js, Node.js, MongoDB, Express.js, AWS,**
+
 - 👯 I’m looking to collaborate on [New Projects](https://github.com/Divyanshu-2022)
-- 📫 How to reach me: divyanshutripathi7826@gmail.com
+
+- 👨‍💻 All of my projects are available at [My Project Folio](https://divyanshu-nine.vercel.app/)
+
+- 📝 I regularly write articles on [No BLogs Right Now](https://divyanshu-nine.vercel.app/)
+
+- 💬 Ask me about **React, HTML, Css, Js, Java, Next.js, Node.js, MonogoDB**
+
+- 📫 How to reach me **divyanshutripathi7826@gmail.com**
+
+- 📄 Know about my experiences [Portfolio](https://divyanshu-nine.vercel.app)
+- ⚡ Fun fact: ...
+
 
 ### Languages and Tools:
 
