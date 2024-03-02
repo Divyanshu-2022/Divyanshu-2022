@@ -1,87 +1,41 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Tripathi</h1>
-<h3 align="center">I'm a passionate and curious software developer with a love for creating innovative solutions. My journey in the world of coding began with a fascination for turning ideas into functional and efficient applications.</h3>
+<h1 align="center">Hi there, I'm Divyanshu Tripathi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
+<h3 align="center">A passionate and curious software developer</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyanshu-tripathi4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@Divyanshu7826?si=LhHimbjcGBQ_YTP_" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://twitter.com/divyans88357769" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.facebook.com/divyanshu.tripathi.37625/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/dev._divyanshu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.hackerrank.com/divyanshutripat4" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"></a>
+</p>
 
-<!--
-**Divyanshu-2022/Divyanshu-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on  [Infrmantra Website](https://inframantra-website.vercel.app) 
-
-- 🌱 I’m currently learning **Next.js, Node.js, MongoDB, Express.js, AWS,**
-
-- 👯 I’m looking to collaborate on [New Projects](https://github.com/Divyanshu-2022)
-
-- 👨‍💻 All of my projects are available at [My Project Folio](https://divyanshu-nine.vercel.app/)
-
-- 📝 I regularly write articles on [No BLogs Right Now](https://divyanshu-nine.vercel.app/)
-
-- 💬 Ask me about **React, HTML, Css, Js, Java, Next.js, Node.js, MonogoDB**
-
-- 📫 How to reach me **divyanshutripathi7826@gmail.com**
-
-- 📄 Know about my experiences [Portfolio](https://divyanshu-nine.vercel.app)
-- ⚡ Fun fact: ...
-
-<ul>
-      <li>Languages: Java, JavaScript, Python</li>
-      <li>Web Development: React, Node.js, Next.js</li>
-      <li>Database: MongoDB, MySQL</li>
-      <li>Other Tools: Git, Docker</li>
-</ul> 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu-2022&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu-2022" /> </p>
-<!-- <h1>I am Divyanshu Tripathi</h1> -->
-<h3 align="center" style="color:#FF0000">Connect with me:</h3>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/divyanshu-tripathi4/" target="_blank">
-    <img 
-     src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
-     alt="https://www.linkedin.com/in/divyanshu-tripathi4/" />
-  </a>
-  <a href="https://youtube.com/@Divyanshu7826?si=LhHimbjcGBQ_YTP_" target="_blank">
-    <img  
-      src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" 
-      alt="[https://www.youtube.com/channel/ucddmmtsow6otkuxjg84de9q](https://youtube.com/@Divyanshu7826?si=LhHimbjcGBQ_YTP_)"  />
-  </a>
-  <a href="https://twitter.com/divyans88357769" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.facebook.com/divyanshu.tripathi.37625/" target="_blank">
-    <img 
-    src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" 
-   alt="https://www.facebook.com/divyanshu.tripathi.37625/"  />
-  </a>
-  <a href="https://www.instagram.com/dev._divyanshu/" target="_blank">
-    <img  
-    src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" 
-    alt="https://www.instagram.com/dev._divyanshu/"  />
-  </a>
-   <a href="https://www.hackerrank.com/divyanshutripat4" target="_blank">
-     <img 
-    src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" 
-     alt="https://www.hackerrank.com/divyanshutripat4" />
-   </a>
-</div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<div display="flex">
-    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-</div>
-<h3 align="center">- :seedling: Exploring Technical Content Writing.</h3>
-<h3 align="center">- :zap: In my free time, I solve problems on Leet Code & Geeks and read tech articles.</h3>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<h3 align="center">Connect with me:</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/divyanshu-tripathi4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@Divyanshu7826?si=LhHimbjcGBQ_YTP_" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://twitter.com/divyans88357769" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.facebook.com/divyanshu.tripathi.37625/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/dev._divyanshu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.hackerrank.com/divyanshutripat4" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"></a>
+</div>
+
+### About Me:
+
+- 🔭 I’m currently working on [Infrmantra Website](https://inframantra-website.vercel.app)
+- 🌱 I’m currently learning Next.js, Node.js, MongoDB, Express.js, AWS
+- 👯 I’m looking to collaborate on [New Projects](https://github.com/Divyanshu-2022)
+- 📫 How to reach me: divyanshutripathi7826@gmail.com
+
+### Languages and Tools:
+
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -93,25 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
 </div>
-<p align="left"> <a href="https://github.com/Divyanshu-2022/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Divyanshu-2022&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="Divyanshu-2022" /></a> </p>
-
-
-
-### :fire: My Stats :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000)](https://git.io/streak-stats) -->
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko) -->
- <br/>
-<p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000" alt="Divyanshu-2022" /></p>
-
-<p>&nbsp;<img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-2022&layout=compact&theme=vision-friendly-dark" alt="divyanshu-2022" /></p>
-
-<p><img align="center" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api?username=divyanshu-2022&show_icons=true&theme=merko" alt="divyanshu-2022" /></p>
-
-
