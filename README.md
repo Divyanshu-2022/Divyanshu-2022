@@ -2,15 +2,6 @@
 
 <h3 align="center">A passionate and curious software developer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/divyanshu-tripathi4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://youtube.com/@Divyanshu7826?si=LhHimbjcGBQ_YTP_" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://twitter.com/divyans88357769" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.facebook.com/divyanshu.tripathi.37625/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.instagram.com/dev._divyanshu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.hackerrank.com/divyanshutripat4" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"></a>
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
