@@ -47,11 +47,11 @@ Building scalable digital experiences with modern technologies, clean architectu
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:im.software@inframantra.com">
+<a href="mailto: divyanshutripathi7826@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://divyanshu-nine.vercel.app/" target="_blank">
+<a href="https://dt-web-studio.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
 </a>
 
